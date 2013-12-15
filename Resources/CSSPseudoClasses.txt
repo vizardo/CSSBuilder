@@ -1,0 +1,11 @@
+:link 
+:visited 
+:active 
+:hover 
+:focus 
+:first-letter 
+:first-line 
+:first-child 
+:before 
+:after 
+:lang()
